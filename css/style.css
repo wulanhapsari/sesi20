@@ -1,0 +1,144 @@
+.navbar-brand {
+    font-size: 32px;
+    margin-left: 12px;
+}
+
+.nav-link {
+    margin-left: 30px;
+}
+
+.nav-link:hover, .active {
+    border-bottom: 3px solid black;
+    margin-bottom: -3px;
+}
+
+.border-company {
+    border: 3px solid purple;
+}
+
+.carousel-caption {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.text-carousel-1 {
+    font-size: 52px;
+    background-color:black;
+    margin-right: 150px;
+    margin-left: 35px;
+}
+
+.text-carousel-2 {
+    font-size: 48px;
+    background-color:black;
+    margin-bottom: 50px;
+    margin-left: 35px;
+}
+
+.text-carousel-3 {
+    font-size: 16px;
+    margin-left: 35px;
+}
+
+.content {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.img-hover:hover{
+    background-color: honeydew;
+}
+
+.garis {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.text-margin {
+    margin-bottom: 50px;
+}
+
+.footer {
+    width: 100%;
+    height: 250px;
+}
+
+.footer2 {
+    width: 100%;
+    height: 80px;
+    background-color:pink;
+}
+
+.blur {
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+.footer-text {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.footer-text2 {
+    margin-top: 10px;
+}
+
+.portofolio {
+    width: 100%;
+    margin-bottom: 50px;
+    height: 80%;
+}
+
+.box-blog {
+    margin-top: 20px;
+    width: 93%;
+    height: 300px;
+    position: absolute;
+}
+
+.box-blog-text {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.box-blog-text-header {
+    margin-bottom: 30px;
+}
+
+.mrgn-left {
+    margin-left: 10px;
+}
+
+.mrgn-bottom {
+    margin-bottom: 20px;
+}
+
+.map {
+    margin-bottom: 50px;
+}
+
+.todos-input {
+    margin-top: 100px;
+    width: 500px;
+}
+
+.filterDiv {
+    display: none;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+.btn {
+    border: none;
+    outline: none;
+    padding: 12px 16px;
+    background-color: rgb(163, 201, 245) ;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color:blue;
+  }
